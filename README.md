@@ -3,7 +3,7 @@
 
 
 ## Introduction
-This project aims to use Monte Carlo simulations and SARIMA time series analysis to forecast stock prices for the "AAL" ticker, American Airlines Ltd, in order to inform investment decisions. The project will involve collecting historical stock data, implementing Monte Carlo simulations to predict future stock prices, and then fitting a SARIMA model to the time series data to forecast future stock prices with greater accuracy.
+This project aims to use Monte Carlo simulations of stock prices for the "AAL" ticker, American Airlines Ltd, in order to inform investment decisions. The project will involve collecting historical stock data, implementing Monte Carlo simulations to predict future stock prices.
 
 ## Technologies
 #### 1. Jupyter Notebook
@@ -214,25 +214,6 @@ plt.show()
 ```
 
 ![Chart5](Monte%20Carlo%20Simulation/logarithmic_distribution_of_returns.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Conclusion
 
